@@ -1,0 +1,38 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "nombre": "vandal",
+            "descripción": "fusil",
+            "imagen": "https://descargarvalorant.net/wp-content/uploads/2021/04/Prime_Vandal-768x354.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "sherif",
+            "descripción": "pipa",
+            "imagen": "https://cdn1.dotesports.com/wp-content/uploads/2021/05/27144039/image-27-1024x666.png"
+        },
+        {
+            "id": 3,
+            "nombre": "spectre",
+            "descripción": "sub fusil automatico",
+            "imagen": "https://cdn1.dotesports.com/wp-content/uploads/2021/06/21134936/VAL-BlastXSpectre-1024x392.jpg"
+            
+        },
+        {
+            "id": 4,
+            "nombre": "marshall",
+            "descripción": "rifle de francotirador",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqoetXOWn4ZlxygbehUoarHWFjoELIKPy6w&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "nombre": "operator",
+            "descripción": "francotirador",
+            "imagen": "https://global-uploads.webflow.com/60f066754425cb9b4fc5881e/619aa1162ba527793354b6dd_YgOmxurixvTwaYKlgd7pEOZQIJJ_xsG_HAAaMFB7DJa5lzSe39xSCx86BBiUyh4uk82DUChOBAS_qrkrS7oMqhNv-zLab2hRtmmrcwQ0m7SA-t6QjjfUiw2LaVbds-wE2Zf5nYHS.jpeg"
+        }
+    ],
+    "profile":{
+        "name": "intento1"
+    }
+}
